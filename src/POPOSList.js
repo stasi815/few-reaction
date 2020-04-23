@@ -1,10 +1,10 @@
 import React from 'react';
 import POPOSSpace from './POPOSSpace';
+import './POPOSList.css'
 
 function POPOSList() {
     return (
-        <div>
-            <h1>San Francisco Public Spaces</h1>
+        <div className='POPOSList'>
             <POPOSSpace
                 name='Garden Terrace'
                 address='150 California'
