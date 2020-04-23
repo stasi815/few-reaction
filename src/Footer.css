@@ -1,6 +1,6 @@
-footer-info {
+.footer-info {
     display: flex;
     flex-direction: column;
     justify-content: center;
-    padding-top: 50;
+    margin-top: 100;
 }
